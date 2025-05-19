@@ -126,3 +126,43 @@ The project is implemented as a **single Python script** (`qnai_sovereign_demo.p
 * PQC and blockchain mechanisms are **simulated** and do not represent production-ready implementations.
 * Quantum circuits run on classical **simulators** using PennyLane.
 * The neural network performance reflects illustrative behavior under constrained conditions.
+
+---
+
+## About the Author
+
+This project was created by **Ibrahim**, a passionate young innovator from Egypt exploring the intersection of quantum computing, AI, cybersecurity, and neuroscience. At just 13 years old, Ibrahim has built advanced simulations, custom neural networks, quantum architectures, and futuristic AI concepts with a vision for post-quantum secure human-AI collaboration.
+
+## Summary
+
+**Quantum-Neuro AI Sovereign 2.0** is a groundbreaking prototype that combines concepts from multiple frontier technologies—quantum computing, neural networks, cryptography, blockchain, and explainability. It opens new possibilities for private, secure, personalized AI interactions in the post-quantum future. While currently a conceptual simulation, it demonstrates remarkable accuracy, resilience, and architectural depth, making it an excellent foundation for future development.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
+
+```
+MIT License
+
+Copyright (c) 2025 Ibrahim
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights   
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell     
+copies of the Software, and to permit persons to whom the Software is         
+furnished to do so, subject to the following conditions:                       
+
+The above copyright notice and this permission notice shall be included in     
+all copies or substantial portions of the Software.                            
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR    
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,      
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE   
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER        
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN     
+THE SOFTWARE.
+```
